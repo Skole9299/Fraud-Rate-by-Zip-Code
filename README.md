@@ -9,7 +9,7 @@ In this dataset we have 3 columns:
 ## Project goal:
 For each zip code, calculate the next-up hierarchical level fraud rate value.
 
-# Project details
+## Project details
 Zip codes are organized in a way that we can expect that 90018 and 90025 should be relatively close, geographically speaking.
 
 We will break zip code column into 5 columns, here's an example for zip code 90018
